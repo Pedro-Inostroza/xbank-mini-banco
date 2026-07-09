@@ -126,7 +126,7 @@ movimientos/{id}
 
 ## Uso de IA
 
-Usé Claude para generar la estructura inicial del proyecto (servicios,
+Usé IA para generar la estructura inicial del proyecto (servicios,
 hooks y componentes) a partir de los requisitos de la pauta. Tuve que
 revisar y ajustar la lógica de la transacción de transferencia (usar
 `runTransaction` en vez de dos `updateDoc` separados) y entender bien por
